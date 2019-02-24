@@ -1,0 +1,12 @@
+AppBundle\Entity\AddressBook:
+    address_book_{1..10}:
+        firstname: <name()>
+        lastname: <name()>
+        address: <address()>
+        email: <email()>
+        country: <country()>
+        city: <city()>
+        phone: <phoneNumber()>
+        zip: <postcode()>
+        birthday: <dateTime()>
+        photo: 'logo.png'
