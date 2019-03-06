@@ -1,7 +1,7 @@
 {
-  "name": "guestbook",
+  "name": "addressbook",
   "version": "1.0.0",
-  "description": "guestbook =========",
+  "description": "addressbook =========",
   "main": "index.js",
   "directories": {
     "test": "tests"
